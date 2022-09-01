@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "better-sqlite3": "^7.5.3",
+    "discord.js": "^13.10.3",
+    "ms": "^2.1.3",
+    "quick.db": "^9.0.5"
+  }
+}
